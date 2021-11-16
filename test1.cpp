@@ -3,6 +3,6 @@
 int main()
 {
 	cout << "Hello World testing";
-	cout << "testingall rfr";
+	cout << "testingall";
 	return 0;
 }
